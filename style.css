@@ -1,5 +1,5 @@
 body{
-  background-color: #d6daff;
+  background-image: url(https://cdn.discordapp.com/attachments/816556757782495232/827956061582786570/Image112.png);
   color: #04061c;
   font-family: 'Turret Road', cursive;
   margin: 0 !important;
@@ -73,5 +73,5 @@ a:hover {
 }
 
 a:active {
-  color: black;
+  color: #64c3e8;
 }
