@@ -1,0 +1,73 @@
+body{
+  background-color: #d6daff;
+  color: #04061c;
+  font-family: 'Turret Road', cursive;
+  margin: 0 !important;
+}
+
+#wrapper
+{
+  width: 100%;
+}
+
+#header
+{
+  width: 100%;
+  margin-top: 24px;
+}
+
+#logo
+{
+  width: 400px;
+  font-size: 48px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  color: #1a2163;
+}
+
+#nav
+{
+  font-weight: bold;
+  width: 100%;
+  padding: 10px 0;
+  background-color: #64c3e8;
+  text-align: center;
+  border: 2px outset #4fb3db;
+
+}
+
+#content
+{
+  padding: 20px 0;
+  font-size: 20px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+#dc
+{
+  padding: 20px 0;
+  font-size: 20px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: #64c3e8;
+}
+
+a:hover {
+  color: #1a2163;
+}
+
+a:active {
+  color: black;
+}
